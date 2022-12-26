@@ -1,6 +1,6 @@
-<mxfile modified="2022-12-26T12:58:43.465Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="D2L77Ve6NUAUjE2Hscr6" version="20.7.4" type="github" pages="7">
+<mxfile modified="2022-12-26T22:45:44.137Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="wU6XkU-oNdvKLVcuvbXz" version="20.7.4" type="github" pages="7">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Arq. Referencia1">
-    <mxGraphModel dx="1843" dy="784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="915" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,7 +142,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yWpWamoh9P_71InScz4_" name="Comercial">
-    <mxGraphModel dx="1843" dy="784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="998" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -278,7 +278,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qiaVrgz38iruojAAl0uV" name="Auth">
-    <mxGraphModel dx="2490" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2250" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a3oDbnNMBUuyd1_gnCmN" name="HS-Peering">
-    <mxGraphModel dx="890" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="650" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -385,7 +385,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kDKCIEpyb3nQpcHhAW1b" name="HS-TG">
-    <mxGraphModel dx="890" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="650" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -441,7 +441,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gDtPtqHbMnqZI7t34cPZ" name="PRD-PRE">
-    <mxGraphModel dx="1443" dy="784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -555,10 +555,28 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_hoPsH6pXEPQriQme4Pt" name="Página-7">
-    <mxGraphModel dx="1290" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1275" dy="458" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bjcOnMDffBVfzYS4e0_g-10" value="Perimeter" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-20" y="180" width="220" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="bjcOnMDffBVfzYS4e0_g-9" value="Network" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-10" y="220" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bjcOnMDffBVfzYS4e0_g-6" value="Endpoint" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="260" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bjcOnMDffBVfzYS4e0_g-3" value="Application" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bjcOnMDffBVfzYS4e0_g-2" value="Users" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bjcOnMDffBVfzYS4e0_g-1" value="Data" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
