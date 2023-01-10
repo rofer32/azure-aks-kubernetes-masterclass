@@ -1,4 +1,4 @@
-<mxfile modified="2023-01-10T15:47:11.621Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UvzFDnuKCt3ep0YTnLCh" version="20.8.1" type="github" pages="11">
+<mxfile modified="2023-01-10T15:56:56.517Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VPOojCByRXvs1ZlKnsY8" version="20.8.1" type="github" pages="11">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Arq. Referencia1">
     <mxGraphModel dx="2049" dy="1091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yWpWamoh9P_71InScz4_" name="Comercial">
-    <mxGraphModel dx="2049" dy="1091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="1091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -385,6 +385,18 @@
         </mxCell>
         <mxCell id="u_GfjZ_Ll9NU13qwhcu0-6" value="Internet" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-656" y="82" width="79.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="I72yJ-JlfCN2bOnCws3H-1" value="Monitoring" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="626" y="457" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I72yJ-JlfCN2bOnCws3H-2" value="Backup" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="462" y="457" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I72yJ-JlfCN2bOnCws3H-3" value="VPN" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="293" y="462" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I72yJ-JlfCN2bOnCws3H-4" value="IAM" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="124" y="462" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
