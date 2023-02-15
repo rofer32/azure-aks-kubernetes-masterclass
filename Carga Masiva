@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T20:20:44.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wQSXT06FNPWy909W1GRB" version="20.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T20:25:59.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="66fJxcyHsGo6ezUw8e6P" version="20.8.7" type="github">
   <diagram name="Carga Masiva" id="JcyL7bHuO4rrK8mX40W8">
     <mxGraphModel dx="1834" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="aqQXZjjgtx02bMK3FDor-4" value="ApiConsultaProcesoCargaMasiva" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" vertex="1" parent="aqQXZjjgtx02bMK3FDor-1">
           <mxGeometry x="110" y="370" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aqQXZjjgtx02bMK3FDor-5" value="Archivo&lt;br&gt;Admisiones" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="-310" y="210" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
