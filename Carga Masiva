@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T03:28:11.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="F-xpTNepn5ziaGtzAcW_" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-16T03:28:54.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="SDnGb7SyHibzwabYcr2F" version="20.8.20" type="github" pages="2">
   <diagram name="Carga Masiva AWS" id="JcyL7bHuO4rrK8mX40W8">
     <mxGraphModel dx="1834" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,8 +93,8 @@
         <mxCell id="aqQXZjjgtx02bMK3FDor-6" value="PC Cliente&lt;br&gt;WPF" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="-90" y="205" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4CsaMnqxGtQXuUXmdnwP-1" value="&lt;h1&gt;Carga Masiva&lt;/h1&gt;&lt;p&gt;Por archivo grande se debe generar una orden de servicio. Este número de orden se debe anteponer en el nombre del archivo comprimido. Por este numero se consultara el estado de proceso del archivo grande.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Necesidad&lt;/b&gt;: Un archivo con 500.000 registros, se necesita procesar lotes en paralelo de esos registros de manera rapida y optima.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="550" width="1160" height="110" as="geometry" />
+        <mxCell id="4CsaMnqxGtQXuUXmdnwP-1" value="&lt;h1&gt;Carga Masiva&lt;/h1&gt;&lt;p&gt;Por archivo grande se debe generar una orden de servicio. Este número de orden se debe anteponer en el nombre del archivo comprimido. Por este numero se consultara el estado de proceso del archivo grande.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Necesidad&lt;/b&gt;: Un archivo con 500.000 registros, se necesita procesar lotes en paralelo de esos registros de manera rapida y optima.&lt;/p&gt;&lt;p&gt;&lt;b&gt;WPF&lt;/b&gt;: Interfaz de interaccion de usuario&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="545" width="1160" height="138" as="geometry" />
         </mxCell>
         <mxCell id="aogTXcWvurx4gvvxYMOb-10" value="On-Premise" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#000000;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800" width="160" height="510" as="geometry" />
