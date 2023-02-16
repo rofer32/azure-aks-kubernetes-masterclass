@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T14:57:01.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CnR19q05kkYwPfyc4IJF" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-16T14:57:52.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="S9faUlT_K-bej4W0GWSX" version="20.8.20" type="github" pages="2">
   <diagram name="Carga Masiva AWS" id="JcyL7bHuO4rrK8mX40W8">
     <mxGraphModel dx="1834" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="aqQXZjjgtx02bMK3FDor-4" value="ApiConsultaProceso&lt;br&gt;CargaMasiva" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" parent="aqQXZjjgtx02bMK3FDor-2" vertex="1">
           <mxGeometry x="130" y="290" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="aqQXZjjgtx02bMK3FDor-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aqQXZjjgtx02bMK3FDor-5" target="aqQXZjjgtx02bMK3FDor-6" edge="1">
+        <mxCell id="aqQXZjjgtx02bMK3FDor-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00CC00;strokeWidth=2;" parent="1" source="aqQXZjjgtx02bMK3FDor-5" target="aqQXZjjgtx02bMK3FDor-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aqQXZjjgtx02bMK3FDor-5" value="Archivo&lt;br&gt;Admisiones" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" parent="1" vertex="1">
