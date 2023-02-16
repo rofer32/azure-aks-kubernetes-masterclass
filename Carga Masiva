@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T03:13:42.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="PBhaGh-O8tFJ7ZC5ZOJl" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-16T03:14:19.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZGsDzHmhNX3Xs62Qeb1R" version="20.8.20" type="github" pages="2">
   <diagram name="Carga Masiva" id="JcyL7bHuO4rrK8mX40W8">
     <mxGraphModel dx="1834" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aqQXZjjgtx02bMK3FDor-5" value="Archivo&lt;br&gt;Admisiones" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" parent="1" vertex="1">
-          <mxGeometry x="-210" y="215" width="70" height="60" as="geometry" />
+          <mxGeometry x="-200" y="215" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aogTXcWvurx4gvvxYMOb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;strokeWidth=2;" edge="1" parent="1" source="aqQXZjjgtx02bMK3FDor-6" target="aqQXZjjgtx02bMK3FDor-3">
           <mxGeometry relative="1" as="geometry">
@@ -82,7 +82,7 @@
           <mxGeometry x="-90" y="205" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4CsaMnqxGtQXuUXmdnwP-1" value="&lt;h1&gt;Carga Masiva&lt;/h1&gt;&lt;p&gt;Por archivo grande se debe generar una orden de servicio. Este número de orden se debe anteponer en el nombre del archivo comprimido. Por este numero se consultara el estado de proceso del archivo grande.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="980" width="150" height="510" as="geometry" />
+          <mxGeometry x="-200" y="560" width="1160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aogTXcWvurx4gvvxYMOb-10" value="On-Premise" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#000000;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800" width="160" height="510" as="geometry" />
