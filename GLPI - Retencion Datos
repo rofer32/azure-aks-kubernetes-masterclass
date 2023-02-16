@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T19:54:41.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7z1GUgvnxZ_OWLUeH7-w" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T19:56:02.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gkRezwvlkI3l-jD6RYB8" version="20.8.20" type="github">
   <diagram name="Página-1" id="Ehdi3ZIufpyeFVe747yY">
     <mxGraphModel dx="1434" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,12 @@
         </mxCell>
         <mxCell id="oRvDnI5E6qIOrWGNlrsM-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoint;" vertex="1" parent="ZgAqpnxuqz_VfBKa9EO_-2">
           <mxGeometry x="229" y="68.5" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="oRvDnI5E6qIOrWGNlrsM-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF3912;" vertex="1" parent="ZgAqpnxuqz_VfBKa9EO_-2">
+          <mxGeometry x="51" y="297" width="381" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="oRvDnI5E6qIOrWGNlrsM-5" value="Amazon&#xa;Aurora" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.aurora;dashPattern=8 8;" vertex="1" parent="ZgAqpnxuqz_VfBKa9EO_-2">
+          <mxGeometry x="78" y="318" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZgAqpnxuqz_VfBKa9EO_-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" parent="1" vertex="1">
           <mxGeometry x="348" y="-58" width="50" height="37" as="geometry" />
