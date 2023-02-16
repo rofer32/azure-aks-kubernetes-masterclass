@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T14:58:04.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="x0dgY0_RhpwTNAr9IDe_" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-16T20:30:05.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="IyD2rFIcVV_gU1qhGmRM" version="20.8.13" type="github" pages="2">
   <diagram name="Carga Masiva AWS" id="JcyL7bHuO4rrK8mX40W8">
-    <mxGraphModel dx="1834" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aqQXZjjgtx02bMK3FDor-5" value="Archivo&lt;br&gt;Admisiones" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" parent="1" vertex="1">
-          <mxGeometry x="-200" y="215" width="70" height="60" as="geometry" />
+          <mxGeometry x="-222" y="215" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aogTXcWvurx4gvvxYMOb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;strokeWidth=2;" parent="1" source="aqQXZjjgtx02bMK3FDor-6" target="aqQXZjjgtx02bMK3FDor-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -130,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WQyOiTNIEIJoaT6TeUx4" name="Vista 1">
-    <mxGraphModel dx="1834" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
