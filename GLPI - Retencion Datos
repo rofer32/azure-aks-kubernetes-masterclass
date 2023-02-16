@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T20:06:11.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YZ0GJmzh_AJs82AfnOkM" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T20:17:14.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ntTMTCyuZavxS-fFir5z" version="20.8.20" type="github">
   <diagram name="Página-1" id="Ehdi3ZIufpyeFVe747yY">
     <mxGraphModel dx="1434" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,14 +28,14 @@
         <mxCell id="oRvDnI5E6qIOrWGNlrsM-8" value="Nodo1&lt;br&gt;ds2.xlarge" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.instance;dashPattern=8 8;" vertex="1" parent="ZgAqpnxuqz_VfBKa9EO_-2">
           <mxGeometry x="359" y="56.5" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oRvDnI5E6qIOrWGNlrsM-9" value="DMS 1&lt;br&gt;Single&lt;br&gt;C5.xlarge" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.instance;dashPattern=8 8;" vertex="1" parent="ZgAqpnxuqz_VfBKa9EO_-2">
-          <mxGeometry x="359" y="314" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="oRvDnI5E6qIOrWGNlrsM-10" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;dashPattern=8 8;" vertex="1" parent="ZgAqpnxuqz_VfBKa9EO_-2">
-          <mxGeometry x="324" y="12" width="130" height="447" as="geometry" />
-        </mxCell>
         <mxCell id="oRvDnI5E6qIOrWGNlrsM-5" value="Amazon&#xa;Aurora" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.aurora;dashPattern=8 8;" vertex="1" parent="ZgAqpnxuqz_VfBKa9EO_-2">
           <mxGeometry x="87" y="334" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oRvDnI5E6qIOrWGNlrsM-10" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;dashPattern=8 8;" vertex="1" parent="ZgAqpnxuqz_VfBKa9EO_-2">
+          <mxGeometry x="329" y="34" width="130" height="447" as="geometry" />
+        </mxCell>
+        <mxCell id="oRvDnI5E6qIOrWGNlrsM-9" value="DMS 1&lt;br&gt;Single&lt;br&gt;C5.xlarge" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.instance;dashPattern=8 8;" vertex="1" parent="ZgAqpnxuqz_VfBKa9EO_-2">
+          <mxGeometry x="353" y="332" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZgAqpnxuqz_VfBKa9EO_-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" parent="1" vertex="1">
           <mxGeometry x="348" y="-58" width="50" height="37" as="geometry" />
